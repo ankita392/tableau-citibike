@@ -1,0 +1,5 @@
+I uncovered the following phenomenons in my data analysis:
+
+1. 8th Ave and W 31st St is the most popular station where trips started in April 2013
+2. Average trip duration in April 2013 is the highest on Saturday, Sunday and Tuesday
+3. Saturday and Sunday are the top weekdays to start a trip
